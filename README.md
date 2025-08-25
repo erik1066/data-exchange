@@ -1,5 +1,7 @@
 # DEX (Data Exchange) Product Documentation
 
+**Note: This repository has been archived and will no longer be maintained as of 8/30/2025**
+
 Welcome to the DEX Products Documentation repository! 
 
 ## Documentation
